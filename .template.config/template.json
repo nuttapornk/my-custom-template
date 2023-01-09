@@ -1,0 +1,19 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "Mr.Nuttaporn Kunsin",
+    "classifications": [
+        "WebApi",
+        "ClassLib",
+        "Clean Architechture"
+    ],
+    "identity": "Clean-Architech-WebApi",
+    "name": "Clean-Architech-WebApi",
+    "description": "Clean Architechture for RestFul web api template",
+    "shortName": "ca-webapi",
+    "sourceName": "ca-webapi",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
